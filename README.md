@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Shibam Debnath -->
 
 <p align="center">
-  <img src="YOUR_HEADER_IMAGE_URL_HERE" alt="Shibam Debnath Header" />
+ <img src="https://your-uploaded-image-url" alt="Shibam Debnath Header" />
 </p>
 
 <h1 align="center">
