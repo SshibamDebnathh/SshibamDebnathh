@@ -93,7 +93,7 @@ const Shibam = {
 
 ## 📢 Let's Connect!
 
-* 🌐 [Poprtfolio](https://shibam-dev.vercel.app)
+* 🌐 [Portfolio](https://shibam-dev.vercel.app)
 * 📧 [shibam.hi@gmail.com](mailto:shibam.hi@gmail.com)
 * 💖 [LinkedIn - Shibam Debnath](https://www.linkedin.com/in/shibam-debnath-aa5a12151/)
 * 📜 [10MegaBlog](https://10megablog.vercel.app/)
