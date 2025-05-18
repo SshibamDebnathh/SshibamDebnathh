@@ -1,8 +1,6 @@
 <!-- GitHub Profile README for Shibam Debnath -->
 
-<p align="center">
- <img src="https://your-uploaded-image-url" alt="Shibam Debnath Header" />
-</p>
+![Shibam Debnath's Developer Profile](https://github.com/user-attachments/assets/182482f9-70cf-4253-8bbd-c39082a5a7b8)
 
 <h1 align="center">
   Hi there! 👋 I'm <span style="color:#f97316">Shibam Debnath</span>
