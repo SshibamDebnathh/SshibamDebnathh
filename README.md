@@ -1,6 +1,8 @@
 <!-- GitHub Profile README for Shibam Debnath -->
 
-![Yellow and Blue Bold Geometric Software Developer LinkedIn Banner (2)](https://github.com/user-attachments/assets/6135aea7-b2b6-4862-aa72-a8c98e6601f3)
+
+![ChatGPT Image May 23, 2025, 01_04_54 PM](https://github.com/user-attachments/assets/1c95204d-4b8b-4b5c-986d-db3264d595cd)
+
 
 
 <h1 align="center">
