@@ -1,6 +1,7 @@
 <!-- GitHub Profile README for Shibam Debnath -->
 
-![Shibam Debnath's Developer Profile](https://github.com/user-attachments/assets/182482f9-70cf-4253-8bbd-c39082a5a7b8)
+![Yellow and Blue Bold Geometric Software Developer LinkedIn Banner (2)](https://github.com/user-attachments/assets/6135aea7-b2b6-4862-aa72-a8c98e6601f3)
+
 
 <h1 align="center">
   Hi there! 👋 I'm <span style="color:#f97316">Shibam Debnath</span>
